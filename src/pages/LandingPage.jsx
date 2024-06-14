@@ -1,6 +1,5 @@
-import HeroSection from "../components/LandingPage/HeroSection";
+import HeroSection from "../components/LandingPage/HeroSections";
 import Nav from "../components/LandingPage/NavbarLP";
-
 import Benefit from "../components/LandingPage/Benefits";
 import Appscreen from "../components/LandingPage/Appscreen";
 import Testimoni from "../components/LandingPage/Testimonis";
