@@ -1,5 +1,5 @@
 import Logo from "../../assets/iconSidebar/Logo.png";
-export default function Nav() {
+export default function NavbarLP() {
   return (
     <nav className="navbar-user">
       <div className="navbar bg-base-170 xl:px-[51px]">
