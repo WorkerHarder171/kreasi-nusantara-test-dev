@@ -1,11 +1,11 @@
-/* eslint-disable react/no-unescaped-entities */
+ /* eslint-disable react/no-unescaped-entities */
 import Awan from "../../assets/imgLandingpage/awan.png";
 import Gambar from "../../assets/imgLandingpage/handphone.png";
 import Oval from "../../assets/imgLandingpage/oval.png";
 import Logokn1 from "../../assets/imgLandingpage/logokn.png";
 import dot from "../../assets/imgLandingpage/Dot.png";
 
-export default function HeroSection() { 
+export default function HeroSection() {
   return (
     <section className="container mx-auto overflow-x-hidden xl:px-[51px]">
       <div className="grid grid-cols-1 md:grid-cols-2 md:mt-10 items-center text-left">
@@ -21,7 +21,7 @@ export default function HeroSection() {
             Download Now →
           </button>
         </article>
-        
+
         <div className="relative">
           <img src={Awan} className="absolute w-[194px] top-[20%] -left-10" />
           <img src={Oval} className="w-[97%]" />
